@@ -1,0 +1,41 @@
+@font-face {
+    font-family: montserrat;
+    src: url(montserrat\MontserratAlternates-Bold.otf);
+}
+body{
+    background-color: rgb(40, 192, 91);
+}
+form{
+    width: 30%;
+    margin-left: 35%;
+    background-color: rgb(139, 236, 130);
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 3px;
+}
+h2 {
+    font-size: x-large;
+    margin-left: 10%;
+    font-family: montserrat;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+input{
+    font-size: x-large;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 3px;
+}
+span {
+    color: #ff0000;
+
+}
+label {
+    font-size: large;
+    margin-left: 10%;
+    font-family: montserrat;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
